@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.vtuvqe",
+      "sha256_cert_fingerprints": ["51:C1:6D:79:47:3C:C7:CA:18:66:1C:71:30:0D:35:AC:8B:A9:76:D2:0C:B3:AD:4F:19:1F:C0:3B:BE:0F:A2:DE"]
+    }
+  }
+]
