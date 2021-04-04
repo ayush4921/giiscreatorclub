@@ -1,12 +1,11 @@
 {
-    "theme_color": "#10100f",
-    "background_color": "#100f0f",
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "app_name":"GCS",
-    "name": "GCS",
-    "short_name": "GCS",
+    "name": "GCC",
+    "short_name": "GCC",
     "icons": [
         {
             "src": "/icon-192x192.png",
